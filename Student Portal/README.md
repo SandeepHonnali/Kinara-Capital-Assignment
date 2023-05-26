@@ -1,3 +1,5 @@
+Kinara Capital Assignment
+
 # Spring-Boot-Student-Portal
 
 A student portal  that acts as an  portal between students and the admin. T It contains an admin who can enter details of students. 
